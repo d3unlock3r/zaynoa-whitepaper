@@ -1,13 +1,13 @@
-# zaynoa-whitepaper
-Official whitepaper for Zaynoa (ZAY) - ERC-20 token on Polygon.
-This repository contains the official 1-page whitepaper for **Zaynoa (ZAY)**, an ERC-20 token on the Polygon network.
+# Zaynoa (ZAY) - Whitepaper
+
+This repository contains the updated 1-page whitepaper for **Zaynoa (ZAY)**, an ERC-20 token on the Polygon network.
 
 ## Vision
 **"To be everywhere."**  
 Zaynoa aims to bridge the gap between decentralized finance (DeFi) and real-world commerce by enabling fast, low-cost, and universal crypto payments.
 
 ## Download
-- 📄 [Zaynoa_Whitepaper_1Page.pdf](Zaynoa_Whitepaper_1Page.pdf)
+- 📄 [Zaynoa_Whitepaper_1Page_v2.pdf](Zaynoa_Whitepaper_1Page_v2.pdf)
 
 ## Token Details
 - Token Name: Zaynoa
@@ -15,7 +15,19 @@ Zaynoa aims to bridge the gap between decentralized finance (DeFi) and real-worl
 - Chain: Polygon (Chain ID: 137)
 - Contract: `0x5038EfB6aB390eF574AA7fb71aB7664330F9387c`
 - Decimals: 18
-- Total Supply: 10,000,000,000 ZAY
+- **Total Supply**: 10,500,000,000 ZAY  
+  - 10,000,000,000 in circulation  
+  - 500,000,000 reserved in DEV wallet
+
+## Fee Structure
+- 3% to profit wallet (ecosystem, growth, operations)
+- 2% to IRS wallet for compliance
+
+## Use Cases
+- Peer-to-peer payments
+- In-store and online merchant payments
+- Utility within Web3 apps, NFTs, and subscriptions
+- Future POS and virtual debit card integration
 
 ## License
 This document is provided for informational purposes only. All rights reserved by the Zaynoa project team.
